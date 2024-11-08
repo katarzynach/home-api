@@ -1,6 +1,7 @@
 # Home-api
 
 ## Overview
+
 Home API is a management system for home goods, which have an expiration date. 
 This project demonstrates the capabilities of the Spring Boot framework, utilizes the REST architecture and provides a solid foundation for developing maintainable web applications.
 
